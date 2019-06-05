@@ -3,14 +3,17 @@ import { connect } from "react-redux";
 
 import { CharacterList } from "../components";
 // import actions
+//import Axios from 'react-axios'
 
 class CharacterListView extends React.Component {
   constructor() {
     super();
+
   }
 
   componentDidMount() {
     // call our action
+
   }
 
   render() {
